@@ -12,7 +12,7 @@ const poem = [
   "I learned the bravest verb",
   "is not to go, but to remain —",
   "the finger lifted from the key,",
-  "the whole world held, unpressed, in place.",
+  "the whole world waits, unpressed, in place.",
 ].join("\n");
 
 const length = Array.from(poem).length;
